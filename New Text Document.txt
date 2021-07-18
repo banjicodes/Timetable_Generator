@@ -1,0 +1,16 @@
+https://headlessui.dev/react/dialog
+
+https://marcio.github.io/react-skylight/
+
+https://www.geeksforgeeks.org/file-uploading-in-react-js/
+
+https://www.akashmittal.com/upload-file-reactjs/
+
+https://medium.com/excited-developers/file-upload-with-react-flask-e115e6f2bf99
+
+https://github.com/daslef/fileupload-react-flask/blob/master/client/components/Main.jsx
+
+https://flask.palletsprojects.com/en/1.1.x/patterns/fileuploads/
+
+
+

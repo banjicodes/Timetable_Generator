@@ -1,0 +1,2 @@
+FLASK_APP=myScheduler.py
+FLASK_ENV=development

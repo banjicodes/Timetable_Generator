@@ -1,0 +1,313 @@
+-------------------------- STATISTICS --------------------------
+
+Hard constraints satisfied: 100.00 %
+Soft constraints satisfied: 0.00 %
+
+TOTAL empty space for all GROUPS and all days: 0
+MAX empty space for GROUP in day: 0
+AVERAGE empty space for GROUPS per week: 0.00
+
+TOTAL empty space for all TEACHERS and all days: 6
+MAX empty space for TEACHER in day: 2
+AVERAGE empty space for TEACHERS per week: 0.75
+
+Free term -> Tuesday: 8
+
+--------------------------- SCHEDULE ---------------------------
+
+Class 12
+Teacher: Dr Odun-Ayo 
+Subject: CIS_421 
+Groups: CSC, MIS, Maths 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_107 
+Time: Wednesday 12 13
+
+Class 27
+Teacher: Dr Emebo 
+Subject: CSC_423 
+Groups: CSC, Maths 
+Type: E 
+Duration: 1 hour(s)
+Classroom: Hall_306 
+Time: Friday 12
+
+Class 30
+Teacher: Dr Odun-Ayo 
+Subject: CIS_421 
+Groups: CSC, MIS, Maths 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_107 
+Time: Tuesday 10 11
+
+Class 23
+Teacher: Dr Iheanatu 
+Subject: CSC_424 
+Groups: CSC, MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Computer_Lab 
+Time: Thursday 12 13
+
+Class 8
+Teacher: Dr Oni 
+Subject: MIS_423 
+Groups: MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_201 
+Time: Friday 12 13
+
+Class 6
+Teacher: Mr Katende 
+Subject: MIS_421 
+Groups: MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_308 
+Time: Friday 15 16
+
+Class 28
+Teacher: Mr Jonathan 
+Subject: CSC_446 
+Groups: CSC 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_201 
+Time: Thursday 16 17
+
+Class 17
+Teacher: Dr Emebo 
+Subject: CSC_423 
+Groups: CSC, Maths 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_201 
+Time: Friday 10 11
+
+Class 16
+Teacher: Dr Emebo 
+Subject: CSC_423 
+Groups: CSC, Maths 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_306 
+Time: Wednesday 10 11
+
+Class 31
+Teacher: Dr Okuboyejo 
+Subject: MIS_422 
+Groups: MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_306 
+Time: Thursday 16 17
+
+Class 15
+Teacher: Mr Katende 
+Subject: MIS_421 
+Groups: MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_308 
+Time: Friday 10 11
+
+Class 11
+Teacher: Dr Odun-Ayo 
+Subject: CIS_421 
+Groups: CSC, MIS, Maths 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_107 
+Time: Thursday 8 9
+
+Class 4
+Teacher: Dr Odun-Ayo 
+Subject: CIS_421 
+Groups: CSC, MIS, Maths 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_107 
+Time: Thursday 10 11
+
+Class 1
+Teacher: Dr Emebo 
+Subject: CSC_423 
+Groups: CSC, Maths 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_201 
+Time: Tuesday 12 13
+
+Class 3
+Teacher: Dr Odun-Ayo 
+Subject: CIS_421 
+Groups: CSC, MIS, Maths 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_107 
+Time: Tuesday 15 16
+
+Class 7
+Teacher: Dr Iheanatu 
+Subject: CSC_424 
+Groups: CSC, MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Computer_Lab 
+Time: Monday 13 15
+
+Class 13
+Teacher: Dr Oni 
+Subject: MIS_423 
+Groups: MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_306 
+Time: Monday 11 12
+
+Class 24
+Teacher: Dr Iheanatu 
+Subject: CSC_424 
+Groups: CSC, MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Computer_Lab 
+Time: Wednesday 17 18
+
+Class 2
+Teacher: Dr Iheanatu 
+Subject: CSC_424 
+Groups: CSC, MIS 
+Type: E 
+Duration: 1 hour(s)
+Classroom: Hall_204 
+Time: Monday 10
+
+Class 5
+Teacher: Mr Katende 
+Subject: MIS_421 
+Groups: MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_306 
+Time: Tuesday 12 13
+
+Class 25
+Teacher: Dr Odun-Ayo 
+Subject: CIS_421 
+Groups: CSC, MIS, Maths 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_107 
+Time: Tuesday 17 18
+
+Class 20
+Teacher: Dr Okuboyejo 
+Subject: MIS_422 
+Groups: MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_201 
+Time: Wednesday 15 16
+
+Class 32
+Teacher: Dr Afolabi 
+Subject: CSC_441 
+Groups: CSC 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_308 
+Time: Monday 11 12
+
+Class 18
+Teacher: Dr Iheanatu 
+Subject: CSC_424 
+Groups: CSC, MIS 
+Type: E 
+Duration: 1 hour(s)
+Classroom: Hall_201 
+Time: Thursday 15
+
+Class 26
+Teacher: Dr Okuboyejo 
+Subject: MIS_422 
+Groups: MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_308 
+Time: Monday 17 18
+
+Class 29
+Teacher: Dr Afolabi 
+Subject: CSC_441 
+Groups: CSC 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_308 
+Time: Friday 8 9
+
+Class 0
+Teacher: Dr Iheanatu 
+Subject: CSC_424 
+Groups: CSC, MIS 
+Type: E 
+Duration: 1 hour(s)
+Classroom: Hall_204 
+Time: Monday 16
+
+Class 21
+Teacher: Mr Jonathan 
+Subject: CSC_446 
+Groups: CSC 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_201 
+Time: Monday 8 9
+
+Class 19
+Teacher: Dr Afolabi 
+Subject: CSC_441 
+Groups: CSC 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_306 
+Time: Wednesday 15 16
+
+Class 9
+Teacher: Dr Emebo 
+Subject: CSC_423 
+Groups: CSC, Maths 
+Type: E 
+Duration: 1 hour(s)
+Classroom: Hall_201 
+Time: Monday 18
+
+Class 22
+Teacher: Dr Oni 
+Subject: MIS_423 
+Groups: MIS 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_308 
+Time: Wednesday 10 11
+
+Class 10
+Teacher: Dr Emebo 
+Subject: CSC_423 
+Groups: CSC, Maths 
+Type: E 
+Duration: 1 hour(s)
+Classroom: Hall_204 
+Time: Monday 17
+
+Class 14
+Teacher: Mr Jonathan 
+Subject: CSC_446 
+Groups: CSC 
+Type: S 
+Duration: 2 hour(s)
+Classroom: Hall_306 
+Time: Friday 13 15
