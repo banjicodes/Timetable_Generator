@@ -83,8 +83,8 @@ const TimeTable = () => {
 
     return (
       <React.Fragment>
-        <div className="mx-16">
-          <h1 className="font-medium text-3xl m-8">Monday</h1>
+        <div className="mx-48">
+          <h1 className="font-medium text-3xl py-8">Monday</h1>
           <table className="shadow-lg bg-white">
             <thead>
               <tr>
@@ -118,7 +118,7 @@ const TimeTable = () => {
                 
             </tbody>
           </table>
-          <h1 className="font-medium text-3xl m-8">Tuesday</h1>
+          <h1 className="font-medium text-3xl py-8">Tuesday</h1>
           <table className="shadow-lg bg-white">
             <thead>
               <tr>
@@ -151,7 +151,7 @@ const TimeTable = () => {
                 
             </tbody>
           </table>
-          <h1 className="font-medium text-3xl m-8">Wednesday</h1>
+          <h1 className="font-medium text-3xl py-8">Wednesday</h1>
           <table className="shadow-lg bg-white">
             <thead>
               <tr>
@@ -184,7 +184,7 @@ const TimeTable = () => {
                 
             </tbody>
           </table>
-          <h1 className="font-medium text-3xl m-8">Thursday</h1>
+          <h1 className="font-medium text-3xl py-8">Thursday</h1>
           <table className="shadow-lg bg-white">
             <thead>
               <tr>
@@ -217,7 +217,7 @@ const TimeTable = () => {
                 
             </tbody>
           </table>
-          <h1 className="font-medium text-3xl m-8">Friday</h1>
+          <h1 className="font-medium text-3xl py-8">Friday</h1>
           <table className="shadow-lg bg-white">
             <thead>
               <tr>

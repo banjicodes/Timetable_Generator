@@ -1,0 +1,46 @@
+@font-face {
+    font-family: popbold;
+    src: url(Poppins/Poppins-Bold.ttf);
+  }
+
+  @font-face {
+    font-family: popsemi;
+    src: url(Poppins/Poppins-SemiBold.ttf);
+  }
+
+  @font-face {
+    font-family: popmedium;
+    src: url(Poppins/Poppins-Medium.ttf);
+  }
+
+  @font-face {
+    font-family: popebold;
+    src: url(Poppins/Poppins-ExtraBold.ttf);
+  }
+  @font-face {
+    font-family: popreg;
+    src: url(Poppins/Poppins-Regular.ttf);
+  }
+
+  .popebold {
+    font-family: popebold;
+  }
+  .popreg {
+    font-family: popreg !important;
+  }
+  .popmedium {
+    font-family: popmedium;
+  }
+  .popbold {
+    font-family: popbold;
+  }
+  .popsemi {
+    font-family: popsemi;
+  }
+
+  .formWidth{
+      width:40% !important;
+  }
+  /* .firstDiv{
+      background-image: url('images/3392075.jpg');
+  } */

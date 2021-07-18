@@ -4,7 +4,7 @@ import './App.css';
 import { BrowserRouter as Router, Route, Switch, Link} from 'react-router-dom';
 import Main from './components/Main';
 import TimeTable from './components/TimeTable';
-import ErrorPage from './components/ErrorPage'
+import ErrorPage from './components/ErrorPage';
 
 function App() {
 

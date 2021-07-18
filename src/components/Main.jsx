@@ -1,8 +1,30 @@
 import React, { Component } from "react";
 import MyModal from "./MyModal";
+import '../main.css';
+import ProgressBar from "./ProgressBar";
+import { Link } from 'react-router-dom';
 
 class Main extends Component {
-  state = {};
+  state = { count: 0, intervalId: 0 };
+
+  handleClick = () => {
+    const newIntervalId = setInterval(() => {
+      this.setState(prevState => {
+        return {
+          ...prevState,
+          count: prevState.count + 1,
+        };
+      });
+    },350);
+    
+    this.setState(prevState => {
+      return {
+        ...prevState,
+        intervalId: newIntervalId,
+      };
+    });
+  }
+
 
   handleUploadImage = (ev) => {
     ev.preventDefault();
@@ -23,28 +45,42 @@ class Main extends Component {
 
   render() {
     return (
-      <div className="relative">
-        <div className="mx-auto text-center">
-          <form onSubmit={this.handleUploadImage} className="flex ">
-            <input
-              ref={(ref) => {
-                this.uploadInput = ref;
-              }}
-              type="file"
-            />
+      <div className="relative w-full h-full">
+        <p className="font-bold text-5xl w-1/2 text-center popebold leading-snug mx-auto text-green-900 mt-52">
+          Fix Those Clashing Courses in just a few seconds.
+        </p>
 
-            {/* <input
-              ref={(ref) => {
-                this.fileName = ref;
-              }}
-              type="text"
-              placeholder="Enter the desired name of file"
-            /> */}
+        <form
+          onSubmit={this.handleUploadImage}
+          className="flex flex-row mx-auto formWidth gap-x-8 mt-10"
+        >
+          <input
+            ref={(ref) => {
+              this.uploadInput = ref;
+            }}
+            type="file"
+            accept=".txt, .json"
+            className="w-72 p-6 bg-green-100 rounded-lg popreg"
+          />
 
-            <button>Upload</button>
-          </form>
-          {/* <MyModal/> */}
-        </div>
+          <input
+            ref={(ref) => {
+              this.fileName = ref;
+            }}
+            type="text"
+            className="w-1"
+          />
+
+          <button className="bg-purple-500 shadow-lg rounded-lg text-white h-14 w-32 mt-3 hover:bg-purple-700 popmedium">
+            Upload
+          </button>
+        </form>
+        {/* <MyModal/> */}
+        {this.state.count <= 100 && <ProgressBar bgcolor={"#ef6c00"} completed={this.state.count}/>}
+        {this.state.count > 100 && <Link to="/timetable"><button className="bg-green-500 shadow-lg rounded-lg text-white h-14 w-48 mx-auto mt-3 hover:bg-green-700 popmedium">
+            Preview Timetable
+          </button></Link>}
+        <h1 onClick={this.handleClick}>Click me</h1>
       </div>
     );
   }
